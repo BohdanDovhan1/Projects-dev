@@ -1,0 +1,7 @@
+The research project “Compact and energy-efficient GPS/GLONASS satellite navigation system signals receiver for vehicles monitoring systems”
+
+Today's world demands energy-efficient navigation systems for agriculture, transport logistics companies and aviation. The industries require systems that able to provide high reliability of an object coordinates determination in urban and mountain areas. Designed compact and energy-efficient navigation receiver uses signals of both satellite navigation systems GPS and GLONASS, has low power consumption, provides high positioning accuracy and reduced time-to-first-fix. Developed navigation receiver supports the EGNOS system that allows to improve the accuracy of the determined coordinates. The receiver is able to enhance navigation equipment performance and reduce the probability of failure of navigation equipment.
+
+The research project «Compact and energy-efficient GPS/GLONASS satellite navigation system signals receiver for vehicles monitoring systems» won 1st place in the Innovation Ideas Contest organized in the frames of  UKRAINE project, funded by the European Union’s Horizon 2020 research and innovation program. The final presentation of the project was at European Space Solutions Conference: 30 May 2016 – 3 Jun 2016, the Hague, Netherlands.
+
+The project received investment from an agricultural firm in Ukraine. The systems were installed on the grain combines. So far they have been functioning successfully.
