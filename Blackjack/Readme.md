@@ -1,2 +1,2 @@
-**Classic Blackjack written on Python.**
+**Classic Blackjack written in Python.**
 
