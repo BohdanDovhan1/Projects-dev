@@ -1,0 +1,10 @@
+{
+  "name": "Myadblocker",
+  "version": "1.0",
+  "description": "adblocker",
+  "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"],
+  "background": {
+	"scripts": ["domains.js", "block.js"]
+  },
+  "manifest_version": 2
+}
