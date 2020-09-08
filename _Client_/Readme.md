@@ -1,5 +1,5 @@
-
-     FTP client that works in the active mode, socket programming was used without any existing FTP library.
+#FTP client that works in the active mode. <br/>
+Based on socket programming without using any existing FTP library.
      
 Programing language:  Python
                
