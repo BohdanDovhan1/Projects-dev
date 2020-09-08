@@ -14,7 +14,7 @@ ciphertext_file: a binary (not text) file to store the ciphertext
 **For example:** python mycipher.py -m encrypt -k 0111111101 -i 10101010 -p f1 -c f3
                  python mycipher.py -m decrypt -k 0111111101 -i 10101010 -p f2 -c f3
             
-            The file f2  will be the same after decryption as the plaintext file f1. 
+The file f2  will be the same after decryption as the plaintext file f1. 
             
             
-The program able to encrypt and decrypt other files and formats also: jpeg, png, pdf, word, mp3, etc.
+          The program able to encrypt and decrypt other files and formats also: jpeg, png, pdf, word, mp3, etc.
